@@ -1,0 +1,104 @@
+col_names,Note
+School_Number,School Number
+Classroom_Number,Classroom Number
+Time_Intervals,Time Intervals
+Date,Date
+Time ,Time 
+Season ,Season 1-4
+Mode,Non-heating[1] /Heating[2]
+Floor,Ground[1] / First[2]
+Room_Orientation,Room Orientation 0-13
+Occupant_Num,Occupant number
+TypeOfActivity,Type of activity 0-3
+JustOccupiedOrnot,Just occupied or not 1/2
+FillingQ,Students filling out the questionnaire 1/2
+Temperature_Operative,Temperature Operative [C]
+TcomfortCENMode,Comfort temperature by EN 15251 [C]
+Lower_Margin,Lower margin [C]
+MetabolicRate,Metabolic rate [W/m2]
+Weight,Weight [kg]
+Height,Height [m]
+BodySurfaceArea,Body surface area [m2]
+NumberOfStudents,Number of students
+NumOfStudentsDrinking,Numof students drinking
+NumOfStudentsFanning,Numof students fanning
+WithoutJumperOrCardigan,Without jumper or cardigan
+ClassroomArea,Classroom area [m2]
+ClassroomHeight,Classroom height [m]
+ClassroomVolume,Class room volumne [m3]
+DepthtoHeightRatio,Depth to height ratio
+OpenningToClassroomArea,Openning to classroom area ration [%]
+WindowAreatoClassroomRatio,Window area to classroom area [%]
+TypeOfWindow,Typeof window 1/2
+TypeofBlindShade,Type of blind shade 1/2
+NumberofOperableBlindsShades,Number of opeable blind shades 1-6
+TypeofInternalDoor,Type of internal Door 1-3
+VentilationType,Ventilation type 1-5
+VentilationFan,Ventilation fan 1/2
+AreaOfOperableWindows2,Area of operable windows 2 [m2]
+TotalOperableAreas,Total operable areas [m2]
+AreaOfNonOperableWindow,Area of non operable window [m2]
+AreaofDoorGlazing,Areaof door glazing [m2]
+TotalAreaofGlazing,Total areaof glazing [m2]
+NumberofOperableWindows,Number of operable windows
+WindowGlazing,Window galazing 1/2
+TypeOfWindowOperation,Type of window operation 1-4
+MinimumHeightOfOperableWindowSill,Minimum height of operable window sill [m]
+OpeningToWallRatio,Openning to wall ratio
+PercentOfOpenWindow,Percent of open window [%]
+AreaofOpenWindows,Area open windows [m2]
+AreaofDoorOpen,Area door open [m2]
+TotalOpenArea,Total open area [m2]
+AreaofExteriorDoorOpening,Area of exterior door openning [m2]
+AreaOfOperableWindows,Area  of operable windows [m2]
+TotalOperableArea,Total operable area [m2]
+PercentOfOpenAreas,Percent of open areas [m2]
+NumberofSlightlyOpenLargeWindows,Number of slightly open large windows
+NumberoffullyOpenSmallWindows,Number of fully open small windows
+NumberofSlightlyOpenSamallWindows,Number of slightly open samall windows
+NumberofOpenSmallWindows,Numberof open small windows
+TotalnumberOfOpenWindows,Totalnumber of open windows
+TotalNumberofWindowAdjustment,Total numberof window adjustment
+ReasonForAdjustment2,Reason for adjustment 2
+WhoDidAdjustment,Who did adjustment
+BlindState,Blind state
+PercentOfClosedBlinds,Percent of closed blinds [%]
+ReasonForAdjustment,Reason for adjustment
+TotalNumberofBlindAdjustment,Total number of blind adjustment
+WhoDidAdjustment2,Who did adjustment 2
+ExteriorShade,Exterior shade
+InteriorDoorState,Interior door state
+ReasonForAdjustment3,Reason for adjustment 3
+WhoDidAdjustment3,Who did adjustment 3
+ExteriorDoorState,Exterior door state
+ReasonForAdjustment5,Reason for adjustment 5
+WhoDidAdjustment5,Who did adjustment 5
+StateOfConnectingDoor,Stateof connecting door
+HeatingSystem,Heating system
+FanOrCoolingSystem,Fan or cooling system
+ReasonForAdjustment4,Reason for adjustment 4
+WhoDidAdjustment4,Reason for adjustment 4
+Lights,Lights
+Temperature_Air,Air Temperature [C]
+Temperature_Radiant,Temperature Radiant [C]
+Temperature_Operative,Temperature Operative [C]
+Temperature_Outdoor_Mean,Outdoor temperature running mean [C]
+Air_Speed,Air Speed [m/s]
+Relative_Humidity,Relative Humidity[%]
+CO2,CO2 [ppm]
+CO2_Exterior,Exterior CO2 [ppm]
+Temperature_Air_Outdoor,Outdoor Air Temperature [C]
+Relative_Humidity_Outdoor,Outdoor Relative Humidity[%]
+Air_Speed_Outdoor,Outdoor Air Speed [m/s]
+RainOrSnow,Rain or snow 1/2
+K,K
+VCO2,VCO2
+Gpcm3s,Gpcm3s
+GequalsnGp,GequalsnGp
+GeForAdults,Ge For Adults
+TotalGe,Total Ge
+OccupantDensitym2,Occupant Density m2
+OccupantDensitym3,Occupant Density m3
+TcomfortG,TcomfortG
+TcomfortCENTrm,Comfort temperature by EN 15251 [C]
+UpperMargin,Upper Margin
